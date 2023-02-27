@@ -1,8 +1,8 @@
+/*Logo*/
 header{
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
     background-repeat: repeat;
-
 }
 
 #logo{
@@ -10,7 +10,7 @@ header{
     width: 400px;
     margin-left: 10px;
 }
-
+/* Intestazione */
 .title{
     font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -27,13 +27,13 @@ header{
 .blue{
     color: #40B5E8;
 }
-
+/* Caption Immagini TBL */
 .caption{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 10px;
     font-weight: bold;
 }
-
+/* Articolo 1 e 2*/
 .articolo{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
@@ -46,7 +46,7 @@ header{
 ul{
     font-size: 18px;
 }
-
+/* Tabella */
 table {
     margin-top: 50px;
     width: 100%;
@@ -72,6 +72,13 @@ td{
 .bluestrip{
     background-color: #B1E5F2;
     color: black;
+}
+/* Appendici */
+.grey1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: grey;
 }
 
 .appendix1{
