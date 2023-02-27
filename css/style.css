@@ -1,0 +1,18 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    background-repeat: repeat;
+
+}
+
+#logo{
+    height: 300px;
+    width: 400px;
+    margin-left: 10px;
+}
+
+.title{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
