@@ -37,15 +37,41 @@ header{
 .articolo{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
-    
+}
+
+#marker{
+    background-color: yellow;
 }
 
 ul{
     font-size: 18px;
 }
 
-#marker{
-    background-color: yellow;
+table {
+    margin-top: 50px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.row{
+    width: 25%;
+}
+
+.bluestrip{
+    background-color: #B1E5F2;
+    color: black;
 }
 
 .appendix1{
