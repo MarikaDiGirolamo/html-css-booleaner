@@ -1,0 +1,108 @@
+/*Logo*/
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    background-repeat: repeat;
+}
+
+#logo{
+    height: 300px;
+    width: 400px;
+    margin-left: 10px;
+}
+/* Intestazione */
+.title{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.grey{
+    color: lightgrey;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.blue{
+    color: #40B5E8;
+}
+/* Caption Immagini TBL */
+.caption{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+}
+/* Articolo 1 e 2*/
+.articolo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+#marker{
+    background-color: yellow;
+}
+
+ul{
+    font-size: 18px;
+}
+/* Tabella */
+table {
+    margin-top: 50px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+.row{
+    width: 25%;
+}
+
+.bluestrip{
+    background-color: #B1E5F2;
+    color: black;
+}
+/* Appendici */
+.grey1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: grey;
+}
+
+.appendix1{
+    background-image: url(../img/monitor.jpg);
+    height: 207px;
+    width: 311px;
+    background: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+
+.appendix2{
+    background-image: url(../img/graph.jpg);
+    height: 207px;
+    width: 311px;
+    background: cover;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+    margin-bottom: 25px;
+}
